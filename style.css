@@ -1,0 +1,46 @@
+body{
+
+    color: white;
+    border:2px solid white;
+    max-width: 1400px;
+    margin: auto;
+    background-image: url("picture.png");
+    background-color: #cccccc;
+    background-clip: content-box;
+}
+
+.header{
+
+    text-align: center;
+    color: white;
+}
+
+.profile{
+    text-align: center;
+    color: white;
+}
+
+.education{
+    text-align: center;
+    color: white;
+}
+
+.experience{
+  text-align: center;
+  color: white;
+}
+
+.technical{
+  text-align: center;
+  color: white;
+}
+
+.date{
+  text-align: left;
+  max-width: 800px;
+}
+
+h4.company{
+  text-align: left;
+  max-width: 400px;
+}
